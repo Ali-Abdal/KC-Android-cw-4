@@ -1,0 +1,13 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println(TotalGrade(8,8));
+	}
+	
+	
+public static int TotalGrade (int N1 , int N2){
+    
+    return N1 + N1;
+
+}
+}
