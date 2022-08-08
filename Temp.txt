@@ -1,0 +1,28 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+	
+	int Num1 = 22;
+		temperature(Num1);
+	}
+	
+	
+	public static void temperature(int Num1){
+	    
+	 
+	    
+	    if (Num1 >= 23){
+	        
+	       System.out.println("Hot");
+	       
+	       
+	    }
+	    
+	    else if (Num1 < 23) {
+	        
+	       System.out.println("Cold");
+	    }
+	    
+	}
+}
